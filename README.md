@@ -47,4 +47,3 @@ src/
 - Fetches data from `localStorage`
 - Renders list of reviews (or message if empty)
 
---
